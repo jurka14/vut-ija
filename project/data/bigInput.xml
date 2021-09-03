@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<Map>
+    <Street>
+        <name>Horná</name>
+        <startX>50</startX>
+        <startY>50</startY>
+        <stopX>500</stopX>
+        <stopY>50</stopY>
+    </Street>
+    <Street>
+        <name>Ľavá</name>
+        <startX>50</startX>
+        <startY>50</startY>
+        <stopX>50</stopX>
+        <stopY>450</stopY>
+    </Street>
+    <Street>
+        <name>Priečna</name>
+        <startX>50</startX>
+        <startY>450</startY>
+        <stopX>25</stopX>
+        <stopY>500</stopY>
+    </Street>
+    <Street>
+        <name>Spojnicová</name>
+        <startX>50</startX>
+        <startY>450</startY>
+        <stopX>150</stopX>
+        <stopY>450</stopY>
+    </Street>
+    <Street>
+        <name>Spojnicová II.</name>
+        <startX>150</startX>
+        <startY>450</startY>
+        <stopX>250</stopX>
+        <stopY>220</stopY>
+    </Street>
+    <Street>
+        <name>Rovná</name>
+        <startX>250</startX>
+        <startY>220</startY>
+        <stopX>500</stopX>
+        <stopY>220</stopY>
+    </Street>
+    <Street>
+        <name>Horno Rovná</name>
+        <startX>500</startX>
+        <startY>50</startY>
+        <stopX>500</stopX>
+        <stopY>220</stopY>
+    </Street>
+    <Street>
+        <name>Pravá</name>
+        <startX>500</startX>
+        <startY>220</startY>
+        <stopX>650</stopX>
+        <stopY>220</stopY>
+    </Street>
+    <Street>
+        <name>Zostupná</name>
+        <startX>650</startX>
+        <startY>220</startY>
+        <stopX>650</stopX>
+        <stopY>700</stopY>
+    </Street>
+    <Street>
+        <name>Priečna II.</name>
+        <startX>650</startX>
+        <startY>700</startY>
+        <stopX>500</stopX>
+        <stopY>800</stopY>
+    </Street>
+    <Street>
+        <name>Dolná</name>
+        <startX>500</startX>
+        <startY>800</startY>
+        <stopX>25</stopX>
+        <stopY>800</stopY>
+    </Street>
+    <Street>
+        <name>Ľavá ii.</name>
+        <startX>25</startX>
+        <startY>800</startY>
+        <stopX>25</stopX>
+        <stopY>500</stopY>
+    </Street>
+    <Street>
+        <name>Stredná</name>
+        <startX>25</startX>
+        <startY>500</startY>
+        <stopX>450</stopX>
+        <stopY>500</stopY>
+    </Street>
+    <Street>
+        <name>Stredno Dolná</name>
+        <startX>450</startX>
+        <startY>500</startY>
+        <stopX>450</stopX>
+        <stopY>650</stopY>
+    </Street>
+    <Street>
+        <name>Brnenská</name>
+        <startX>450</startX>
+        <startY>650</startY>
+        <stopX>150</stopX>
+        <stopY>650</stopY>
+    </Street>
+    <Street>
+        <name>Krížna</name>
+        <startX>150</startX>
+        <startY>650</startY>
+        <stopX>25</stopX>
+        <stopY>500</stopY>
+    </Street>
+
+    <Street>
+        <name>Stredno Priečna</name>
+        <startX>450</startX>
+        <startY>650</startY>
+        <stopX>500</stopX>
+        <stopY>800</stopY>
+    </Street>
+    <Street>
+        <name>Stredno Priečna II.</name>
+        <startX>450</startX>
+        <startY>650</startY>
+        <stopX>650</stopX>
+        <stopY>700</stopY>
+    </Street>
+    <Street>
+        <name>Spojovacia</name>
+        <startX>450</startX>
+        <startY>500</startY>
+        <stopX>500</stopX>
+        <stopY>220</stopY>
+    </Street>
+    <Stop>
+        <name>Tesco</name>
+        <coorX>50</coorX>
+        <coorY>150</coorY>
+        <streetName>Ľavá</streetName>
+    </Stop>
+    <Stop>
+        <name>Kaufland</name>
+        <coorX>200</coorX>
+        <coorY>50</coorY>
+        <streetName>Horná</streetName>
+    </Stop>
+    <Stop>
+        <name>Streda</name>
+        <coorX>200</coorX>
+        <coorY>500</coorY>
+        <streetName>Horná</streetName>
+    </Stop>
+    <Stop>
+        <name>Pravá zast.</name>
+        <coorX>530</coorX>
+        <coorY>220</coorY>
+        <streetName>Pravá</streetName>
+    </Stop>
+
+    <Stop>
+        <name>Dolná Zastávka 2</name>
+        <coorX>470</coorX>
+        <coorY>800</coorY>
+        <streetName>Dolná</streetName>
+    </Stop>
+    <Stop>
+        <name>Dolná Zastávka 1</name>
+        <coorX>150</coorX>
+        <coorY>800</coorY>
+        <streetName>Dolná</streetName>
+    </Stop>
+    <Stop>
+        <name>Ľavočná</name>
+        <coorX>25</coorX>
+        <coorY>600</coorY>
+        <streetName>Ľavá</streetName>
+    </Stop>
+    <Stop>
+        <name>Zostup</name>
+        <coorX>650</coorX>
+        <coorY>350</coorY>
+        <streetName>Zostupná</streetName>
+    </Stop>
+    <Stop>
+        <name>Palisády</name>
+        <coorX>200</coorX>
+        <coorY>650</coorY>
+        <streetName>Brnenská</streetName>
+    </Stop>
+    <Line>
+        <id>1.1</id>
+        <Stop hour="6" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="6" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="6" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+   
+    <Line>
+        <id>1.3</id>
+        <Stop hour="7" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="7" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="7" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>1.4</id>
+        <Stop hour="8" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="8" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="8" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>1.5</id>
+        <Stop hour="9" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="9" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="9" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>1.6</id>
+        <Stop hour="10" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="10" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="10" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>1.7</id>
+        <Stop hour="11" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="11" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="11" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>1.8</id>
+        <Stop hour="12" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="12" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="12" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>1.9</id>
+        <Stop hour="13" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="13" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="13" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>1.10</id>
+        <Stop hour="14" minutes="0"  x="25" y="600">Ľavočná</Stop>
+        <Stop hour="14" minutes="10"  x="150" y="800">Dolná Zastávka 1</Stop>
+        <Stop hour="14" minutes="20"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="25" y="600"/>
+        <coor x="25" y="800"/>
+        <coor x="150" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+
+    <Line>
+        <id>2.1</id>
+        <Stop hour="6" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="6" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="6" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.2</id>
+        <Stop hour="7" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="7" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="7" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.3</id>
+        <Stop hour="8" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="8" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="8" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.4</id>
+        <Stop hour="9" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="9" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="9" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.5</id>
+        <Stop hour="10" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="10" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="10" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.6</id>
+        <Stop hour="11" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="11" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="11" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.7</id>
+        <Stop hour="12" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="12" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="12" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.8</id>
+        <Stop hour="13" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="13" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="13" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.9</id>
+        <Stop hour="14" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="14" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="14" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>2.10</id>
+        <Stop hour="15" minutes="0"  x="200" y="50">Kaufland</Stop>
+        <Stop hour="15" minutes="10"  x="530" y="220">Pravá zast.</Stop>
+        <Stop hour="15" minutes="20"  x="650" y="350">Zostup</Stop>
+        <coor x="200" y="50"/>
+        <coor x="500" y="50"/>
+        <coor x="500" y="220"/>
+        <coor x="530" y="220"/>
+        <coor x="650" y="220"/>
+        <coor x="650" y="350"/>
+    </Line>
+    <Line>
+        <id>3.1</id>
+        <Stop hour="6" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="6" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="6" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.2</id>
+        <Stop hour="7" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="7" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="7" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.3</id>
+        <Stop hour="8" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="8" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="8" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.4</id>
+        <Stop hour="9" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="9" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="9" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.5</id>
+        <Stop hour="10" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="10" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="10" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.6</id>
+        <Stop hour="11" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="11" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="11" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.7</id>
+        <Stop hour="12" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="12" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="12" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.8</id>
+        <Stop hour="13" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="13" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="13" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.9</id>
+        <Stop hour="14" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="14" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="14" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+    <Line>
+        <id>3.10</id>
+        <Stop hour="15" minutes="0"  x="50" y="150">Tesco</Stop>
+        <Stop hour="15" minutes="12"  x="200" y="650">Palisády</Stop>
+        <Stop hour="15" minutes="18"  x="470" y="800">Dolná Zastávka 2</Stop>
+        <coor x="50" y="150"/>
+        <coor x="50" y="450"/>
+        <coor x="25" y="500"/>
+        <coor x="150" y="650"/>
+        <coor x="200" y="650"/>
+        <coor x="450" y="650"/>
+        <coor x="500" y="800"/>
+        <coor x="470" y="800"/>
+    </Line>
+</Map>
